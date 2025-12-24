@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adele Jamalzei 🌾
+# 👋 Hi, I'm Adele 🌾
 
 **PhD Student in Plant Breeding & Genetics | Washington State University** 🐾
 
