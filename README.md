@@ -13,7 +13,7 @@ I am a researcher dedicated to increasing global wheat yield through the interse
 ## 🔬 Research Focus
 * **QTL Introgression:** Introgressing yield-related QTLs to optimize wheat performance across diverse genetic backgrounds.
 * **Drone Image Analytics:** Leveraging high-throughput temporal data to quantify phenotypic plasticity and developmental milestones.
-* **Genotype-by-Environment (GxE):** Analyzing phenotypic plasticity across environments using advanced visualization like `ggtext` and `ggnewscale`.
+* **Genotype-by-Environment (GxE):** Analyzing phenotypic plasticity across environments.
 * **GWAS:** Identifying genetic markers associated with key yield components.
 
 
