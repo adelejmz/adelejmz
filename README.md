@@ -19,4 +19,4 @@ I am a researcher dedicated to increasing global wheat yield through the interse
 
 ## 📫 Connect with me:
 * **LinkedIn:** [Adele Jamalzei](https://www.linkedin.com/in/adelejamalzei-wsu/)
-* ** Feel free to reach out at adelejamalzei@gmail.com
+* Feel free to reach out at adelejamalzei@gmail.com
