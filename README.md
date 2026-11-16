@@ -1,15 +1,19 @@
 # 👋 Hi, I'm Adele 🌾
 
-**PhD Student in Plant Breeding & Genetics | Washington State University** 🐾
+**PhD Candidate, Plant Breeding and Genetics | Washington State University**
 
-I am a researcher dedicated to increasing global wheat yield through the intersection of **Genetics**, **Plant Breeding**, and **Data Science**. My work focuses on identifying and introgressing quantitative trait loci (QTLs) to boost wheat production. 🚀
+I work on increasing grain yield in spring wheat (*Triticum aestivum* L.). My dissertation tests whether pyramiding quantitative trait loci for grain yield components increases grain yield in near-isogenic lines, using field trials in three Washington environments.
 
-## 🛠️ Technical Expertise
-* **🛰️ High-Throughput Phenotyping (HTP)
-* **📊 Statistical Modeling
-* **🌱 Phenology Analysis
-* **🌡️ Climate Analytics
-* **⚙️ Data Engineering
+## What I do
+
+- **Field phenotyping:** multi-location trials of near-isogenic lines for grain yield and grain yield components
+- **UAV-based multispectral imaging:** vegetation indices across growth stages to distinguish lines in the field
+- **Statistical analysis:** mixed models, BLUPs, and genotype × environment analysis in R
+- **Phenology:** heading and maturity analysis in spring and winter wheat
+
+## Tools
+
+R · Python · UAV multispectral image processing
 
 ## 🔬 Research Focus
 * **🧬 QTL Introgression:** Introgressing yield-related QTLs to optimize wheat performance across diverse genetic backgrounds.
